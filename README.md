@@ -3,7 +3,7 @@
 {
     "name": "Ali Özmeral",
     "location": "İstanbul / Türkiye",
-    "position": "Back-End Developer()",
+    "position": "Back-End Developer",
     "about": [
         "-",
     ],
